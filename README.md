@@ -1,0 +1,1 @@
+This is a jupyter notebook that contains the python codes for calculating the NDVI of North Gujurat, specifically, Mehsana, India. This also shows the land changes on maps created in QGIS and has a report explaining the study as well.
